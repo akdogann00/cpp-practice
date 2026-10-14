@@ -12,7 +12,7 @@ int main()
 
     cin >> ad;
 
-    cout << "Adiniz:" << ad;
+    cout << "Adiniz: " << ad;
 
     return 0;
 }
