@@ -1,17 +1,27 @@
-# C++ Practice & Course Notes
+Hi! 👋
 
-This repository contains C++ code examples, algorithm exercises, and practice projects from my Computer Programming coursework at Doğuş University and individual study.
+This repository contains the C++ projects I've been working on while learning the language.
 
-## Contents
-* Basic I/O operations (`cin`, `cout`)
-* Conditional statements (`if-else`, `switch-case`)
-* Loop structures (`for`, `while`)
-* Array manipulation and practice
-* Functions and modular coding exercises
+I'm still learning, so most of my projects are small and focused on practicing what I've learned. With each project, I try to understand new concepts, improve my problem-solving skills, and get better at writing code.
 
-## How to Run
-You can clone the repository and run the files using Visual Studio, VS Code, or any standard C++ compiler:
+## What you'll find here
 
-```bash
-git clone https://github.com/akdogann00/cpp-practice.git
-`````
+- Small console applications
+
+- Basic calculations and algorithms
+
+- Projects using conditions, loops, and variables
+
+- Simple interactive programs
+
+## Tools I use
+
+- C++
+
+- Visual Studio
+
+- GitHub
+
+I'll keep adding new projects as I learn more and improve my skills.
+
+Thanks for checking out my repository! 😊
